@@ -1,7 +1,7 @@
 {
   
     "engines":{
-      "node": "24.14.0."
+      "node": ">=18"
     },
   "name": "major-project-airbnb",
   "version": "1.0.0",
